@@ -1,4 +1,20 @@
-### Hi there 👋
+<h1 align="center">Hello, I'm David Yardy, PE</h1>
+<h2 align="center">Engineer | Web Developer | Agile Enthusiast</h2>
+
+<div align="center">
+  <a href="https://github.com/yourGitHubUsername">
+    <img src="https://img.shields.io/github/followers/dyardy?label=Follow&style=social" alt="GitHub Badge">
+  </a>
+  <a href="https://www.linkedin.com/in/dyardy/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn Badge">
+  </a>
+</div>
+
+<br>
+
+<p align="center">
+  Welcome to my GitHub profile! I am a dedicated engineer and web developer with a passion for building solutions that matter. With strong communication skills and a proactive approach, I excel in fast-paced environments, delivering projects that exceed expectations.
+</p>
 
 # Hello! I'm David Yardy, PE.
 
