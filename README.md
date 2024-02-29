@@ -2,7 +2,7 @@
 <h2 align="center">Engineer | Solution Architect | Team Leader </h2>
 
 <div align="center">
-  <a href="https://github.com/yourGitHubUsername">
+  <a href="https://github.com/dyardy">
     <img src="https://img.shields.io/github/followers/dyardy?label=Follow&style=social" alt="GitHub Badge">
   </a>
   <a href="https://www.linkedin.com/in/dyardy/">
