@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm David Yardy, PE</h1>
-<h2 align="center">Engineer | Web Developer | Agile Enthusiast</h2>
+<h2 align="center">Engineer | Solution Architect | Team Leader </h2>
 
 <div align="center">
   <a href="https://github.com/yourGitHubUsername">
@@ -13,12 +13,12 @@
 <br>
 
 <p align="center">
-  Welcome to my GitHub profile! I am a dedicated engineer and web developer with a passion for building solutions that matter. With strong communication skills and a proactive approach, I excel in fast-paced environments, delivering projects that exceed expectations.
+  Welcome to my GitHub profile! I am a dedicated engineer and solution architect with a passion for building solutions that matter. With strong communication skills and a proactive approach, I excel in fast-paced environments, delivering projects that exceed expectations.
 </p>
 
 # Hello! I'm David Yardy, PE.
 
-## Engineer | Web Developer
+## Engineer | Solution Architect | Team Leader
 
 Welcome to my GitHub profile! I'm a passionate engineer and web developer with a keen focus on creating impactful web applications. With strong communication skills and a dedication to professionalism, I aim to bridge the gap between technical and non-technical realms to deliver outstanding results.
 
@@ -40,9 +40,28 @@ I believe in the power of teamwork, continuous improvement, and taking proactive
 
 I'm always on the lookout to learn more and expand my skillset, especially in areas that complement my work in engineering and web development. Whether it's new programming languages, project management techniques, or customer service strategies, I'm eager to adopt practices that enhance project outcomes.
 
+### 🛠 Skills & Technologies
+
+| Category              | Skills                                                                                       |
+|-----------------------|----------------------------------------------------------------------------------------------|
+| **Web Development**   | HTML, CSS, JS, TS, React.js, Vue.js, Angular, SASS/SCSS, Vuetify, Webpack, Babel |
+| **Backend & Server-side** | Node.js, Express.js, .NET Core, ASP.NET MVC, EF Core, SQL, NoSQL, REST, GraphQL             |
+| **Cloud Technologies**| AWS, Azure, GCP, CI/CD, Docker, Serverless                                 |
+| **Programming Languages** | C#, Python, Java, PHP                                                                       |
+| **DevOps & Version Control** | Git, GitHub, GitLab, Azure DevOps                                              |
+| **Testing & QA**      | TDD, BDD, Jest, Selenium, Cypress                                                            |
+| **Methodologies**     | Agile, Scrum, Kanban, DevSecOps                                                              |
+| **Tools & IDEs**      | VS Code, Visual Studio, Postman, JetBrains Rider/WebStorm
+
+---
+
 ### 📫 Get In Touch
 
 Feel free to reach out to me for collaborations, questions, or just to say hi. I'm always open to discussing new projects or opportunities.
+
+- **Email:** [dyardy@gmail.com](mailto:dyardy@gmail.com)
+- **LinkedIn:** [dyardy](https://www.linkedin.com/in/dyardy/)
+- **Web:** [www.davidyardy.com](https://www.davidyardy.com)
 
 ---
 
