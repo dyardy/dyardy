@@ -16,8 +16,6 @@
   Welcome to my GitHub profile! I am a dedicated engineer and solution architect with a passion for building solutions that matter. With strong communication skills and a proactive approach, I excel in fast-paced environments, delivering projects that exceed expectations.
 </p>
 
-# Hello! I'm David Yardy, PE.
-
 ## Engineer | Solution Architect | Team Leader
 
 Welcome to my GitHub profile! I'm a passionate engineer and web developer with a keen focus on creating impactful web applications. With strong communication skills and a dedication to professionalism, I aim to bridge the gap between technical and non-technical realms to deliver outstanding results.
